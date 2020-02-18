@@ -34,3 +34,5 @@
   - [00108.convert-sorted-array-to-binary-search-tree](problems/108.convert-sorted-array-to-binary-search-tree.md)
   - [00110.balanced-binary-tree](problems/110.balanced-binary-tree.md)
   - [111.minimum-depth-of-binary-tree](problems/111.minimum-depth-of-binary-tree.md)
+  - [112.path-sum](problems/112.path-sum.md)
+  - [118.pascal's-triangle](problems/118.pascal's-triangle.md)
